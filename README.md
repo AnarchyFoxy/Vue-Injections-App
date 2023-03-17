@@ -1,4 +1,5 @@
 # injections
+This is a training application created to remember the rules of using the Vue framework. It uses basic aspects such as loop constructs, switch construct bidirectional data flow, etc.
 
 ## Project setup
 ```
